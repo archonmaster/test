@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50px" height="50px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3966 3966"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:158.662;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:158.662;stroke-linecap:round;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil0 {fill:#FFED00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_221688688">
+   <path class="fil0 str0" d="M1666 476c0,72 0,2149 0,2221 0,219 497,397 1110,397 614,0 1111,-178 1111,-397l0 -2212c0,-219 -497,-406 -1111,-406 -613,0 -1110,178 -1110,397z"/>
+   <path class="fil0 str1" d="M2300 1834c0,-3 0,-6 0,-10 0,-219 -497,-396 -1110,-396 -613,0 -1111,177 -1111,396 0,73 0,1594 0,1666 0,219 497,397 1111,397 613,0 1111,-178 1111,-397 0,-72 -1,-1584 -1,-1656z"/>
+  </g>
+  <g id="_221680272">
+   <ellipse class="fil1 str1" cx="2776" cy="476" rx="1111" ry="397"/>
+   <path class="fil1 str1" d="M1666 555c0,73 0,404 0,476 0,219 497,397 1110,397 614,0 1111,-178 1111,-397 0,-72 0,-403 0,-476"/>
+   <path class="fil1 str1" d="M2265 1939c153,28 327,44 511,44 614,0 1111,-177 1111,-396 0,-73 0,-404 0,-476"/>
+   <path class="fil1 str1" d="M1666 1111c0,72 0,338 0,338"/>
+   <path class="fil1 str1" d="M2302 2501c144,24 305,37 474,37 614,0 1111,-177 1111,-396 0,-73 0,-404 0,-476"/>
+   <path class="fil1 str1" d="M2296 3055c146,25 308,39 480,39 614,0 1111,-178 1111,-397 0,-72 0,-404 0,-476"/>
+   <ellipse class="fil1 str1" cx="1190" cy="1824" rx="1111" ry="397"/>
+   <path class="fil1 str1" d="M79 1904c0,72 0,403 0,476 0,219 497,396 1111,396 613,0 1110,-177 1110,-396 0,-73 0,-404 0,-476"/>
+   <path class="fil1 str1" d="M79 2459c0,72 0,404 0,476 0,219 497,397 1111,397 613,0 1110,-178 1110,-397 0,-72 0,-404 0,-476"/>
+   <path class="fil1 str1" d="M79 3014c0,73 0,404 0,476 0,219 497,397 1111,397 613,0 1110,-178 1110,-397 0,-72 0,-403 0,-476"/>
+  </g>
+ </g>
+</svg>
