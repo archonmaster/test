@@ -5,12 +5,9 @@
 .project
 .settings
 .idea
-/storage/backups/*.zip
-/storage/cache/thumbs/*.png
-/storage/cache/thumbs/*.gif
-/storage/data/*.sqlite
-/storage/uploads/*
-/custom/*
 
-/storage/cache
-/modules/addons
+/custom/config.php
+
+/storage
+/modules/addons/*
+!modules/addons/.gitkeep
